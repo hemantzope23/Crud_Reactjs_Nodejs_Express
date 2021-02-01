@@ -8,13 +8,20 @@
     "@testing-library/user-event": "^12.6.0",
     "axios": "^0.21.1",
     "bootstrap": "^4.5.3",
+    "csv": "^5.3.2",
     "filereader": "^0.10.3",
+    "mysql": "^2.18.1",
+    "npm-install-global": "^1.0.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
+    "react-csv": "^2.0.3",
+    "react-data-table-component": "^7.0.0-alpha-5",
     "react-dom": "^17.0.1",
     "react-file-reader": "^1.1.4",
     "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
+    "styled-components": "^5.2.1",
+    "web-vitals": "^0.2.4",
+    "xlsx": "^0.16.9"
   },
   "scripts": {
     "start": "react-scripts start",

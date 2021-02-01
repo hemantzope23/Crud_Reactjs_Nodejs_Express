@@ -1,5 +1,5 @@
 import React from "react";
-import React, { Component } from 'react';
+// import React { Component } from 'react';
 import "./App.css";
 import Hello from './components/Hello';
 import Inline from './components/Inline';
@@ -21,11 +21,13 @@ import ShoppingList from './Learn/ShoppingList';
 import Hero from './components/Hero';
 import ErrorBoundary from './components/ErrorBoundary';
 import Home from './Frontend/Home';
+import ClickCounterTwo from "./components/ClickCounterTwo";
+import HoverCounterTwo from "./components/HoverCounterTwo";
 
 function App() {
   return (
       <div className="App">
-        <Home />
+        {/* <Home /> */}
         {/* <ErrorBoundary>
         <Hero heroName='Batman'/>
         </ErrorBoundary> */}
@@ -38,8 +40,8 @@ function App() {
         <Hero heroName='Joker'/>
         </ErrorBoundary> */}
 
-        <ShoppingList />
-        <PortalDemo />
+        {/* <ShoppingList /> */}
+        {/* <PortalDemo /> */}
         {/* <FocusInput /> */}
         {/* <Input /> */}
         {/* <RefeDemo /> */}
@@ -55,6 +57,8 @@ function App() {
        {/* <Inline />  */}
        {/* <UserGreeting /> */}
        {/* <Messege /> */}
+       <ClickCounterTwo />
+       <HoverCounterTwo /> 
       </div>
     
   );

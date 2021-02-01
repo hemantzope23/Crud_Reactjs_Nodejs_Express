@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Hemant",
+      "username": "Zope_23",
+      "email": "hemantzope21@gmail.com",
+      "phone": "741236985412",
+      "website": "www.Limdlit.com",
+      "id": 1
+    },
+    {
+      "name": "Zope",
+      "username": "Hemant_23",
+      "email": "hemant@gmail.com",
+      "phone": "7767972188",
+      "website": "www.Limdlit.com",
+      "id": 2
+    },
+    {
+      "name": "Rakesh",
+      "username": "Rakesh_25",
+      "email": "rakeshpatil57@gmail.com",
+      "phone": "8329546895",
+      "website": "www.rakeshpatil.com",
+      "id": 3
+    },
+    {
+      "name": "Hemant Zope",
+      "username": "Hemant_23",
+      "email": "hemantzope25@gmail.com",
+      "phone": "8329472992",
+      "website": "www.hemantzope.com",
+      "id": 4
+    }
+  ]
+}

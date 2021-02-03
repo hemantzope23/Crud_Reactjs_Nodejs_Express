@@ -11,7 +11,6 @@ const db = mysql.createPool({
     password: '',
     database: 'crud',
 });
-
 app.use(bodyPaser.urlencoded({ extended: true }))
 app.use(cors());
 app.use(express.json())
